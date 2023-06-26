@@ -9,3 +9,6 @@ a{
    color:white;
    background-color: rgb(5, 113, 77);
 }
+*{
+    box-sizing: border-box; padding: 20px;
+}
